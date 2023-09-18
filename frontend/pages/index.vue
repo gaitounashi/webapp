@@ -35,7 +35,7 @@
         />
 
         <Button type="submit" color="primary" class="mt-4 col-start-2"
-          >ログイン
+          >💃ログイン💃
         </Button>
       </form>
     </div>
